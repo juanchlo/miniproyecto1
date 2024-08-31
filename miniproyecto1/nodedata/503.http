@@ -1,0 +1,11 @@
+HTTP/1.0 503 Service Unavailable
+Cache-Control: no-cache
+Connection: close
+Content-Type: text/html
+
+<html><body><h1>503 SERVICIO NO DISPONIBLE</h1>
+No hay servidores disponibles para atender la solicitud
+<h2>COMPUNUBE-----30/8/2024</h2>
+<h3>JUAN CHACON, SANTIAGO ARISTIZABAL, KENNY FIGUEROA</h3>
+</body></html>
+
